@@ -1,0 +1,7 @@
+{
+  "name": "SidebarDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
